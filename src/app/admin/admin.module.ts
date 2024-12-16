@@ -21,7 +21,7 @@ import {TableModule} from 'primeng/table'
     AdminRoutingModule,
     AppLayoutModule,
     TableModule,
-    InventarioModule
+    //InventarioModule
   ],
   providers:[
     CategoriaService
